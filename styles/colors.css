@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(212, 230, 237);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1, p {
+    color: rgb(15, 19, 241);
+}
+h2 { 
+    color: rgb(183, 127, 58);
+}
+img {
+    max-width: 50%;
+    border-radius: 15%;
+    /*filter: sepia();*/
+}
